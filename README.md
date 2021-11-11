@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on implementing Saas products
 - 🤔 I’m looking for help with 
 - 💬 Ask me about backend development.
-- 📫 How to reach me: <a href="https://linktr.ee/jitter4" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmobile.twitter.com%2Flinktree_&psig=AOvVaw0i5h9w9-WuURMEm8aGP5A5&ust=1636731661656000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPD8ldzSkPQCFQAAAAAdAAAAABAD" width="20" height="20"></a>
+- 📫 How to reach me: <a href="https://linktr.ee/jitter4" target="_blank"><img src="https://pbs.twimg.com/profile_images/1242717213225672704/zW9W_sU0_400x400.jpg" width="25" height="25"></a>
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
 
