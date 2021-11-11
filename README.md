@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on implementing Saas products
 - 🤔 I’m looking for help with 
 - 💬 Ask me about backend development.
-- 📫 How to reach me: <a href="https://linktr.ee/jitter4" target="_blank"><img src="https://imgr.search.brave.com/0vMkGmRLeU6w0mBh8jyYWehcBuhQVJHmRJDjcWKbF5I/fit/400/400/ce/1/aHR0cHM6Ly9pLnBp/bmltZy5jb20vNzM2/eC9kYS8xZi8yNS9k/YTFmMjU4N2VmMzVj/NzE2ZTcwMDNhZGJj/OWZjZjQxZS5qcGc" alt="Buy Me A Book" width="20" height="20"></a>
+- 📫 How to reach me: <a href="https://linktr.ee/jitter4" target="_blank"><img src="https://imgr.search.brave.com/0vMkGmRLeU6w0mBh8jyYWehcBuhQVJHmRJDjcWKbF5I/fit/400/400/ce/1/aHR0cHM6Ly9pLnBp/bmltZy5jb20vNzM2/eC9kYS8xZi8yNS9k/YTFmMjU4N2VmMzVj/NzE2ZTcwMDNhZGJj/OWZjZjQxZS5qcGc" width="20" height="20"></a>
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
 
