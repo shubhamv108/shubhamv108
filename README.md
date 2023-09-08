@@ -44,7 +44,7 @@
 [WebCrawlerInvertedIndex](https://github.com/shubhamv108/web-crawler-inverted-index)<br/>
 
 #### SpringBoot-DemoApplications
-[ServerSenfEvents] (https://github.com/shubhamv108/spring-boot-server-sent-events)<br/>
+[ServerSenfEvents](https://github.com/shubhamv108/spring-boot-server-sent-events)<br/>
 [CircuitBreaker](https://github.com/shubhamv108/spring-boot-circuit-breaker-demo)<br/>
 [CloudStream-RabbitMQ](https://github.com/shubhamv108/spring-boot-rabbitmq-demo)<br/>
 [Connect4](https://github.com/shubhamv108/connect4)<br/>
