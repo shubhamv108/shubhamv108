@@ -2,7 +2,7 @@
 
 
 [![GitHub shubhamv108](https://img.shields.io/github/followers/shubhamv108?label=follow&style=social)](https://github.com/shubhamv108)
-[![Linkedin: shubhamvarshney](https://img.shields.io/badge/-Shubham%20V-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhamvarshney/)](https://www.linkedin.com/in/shubhamvarshney/)
+[![Linkedin: shubhamvarshney](https://img.shields.io/badge/-Shubham%20V-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhamvarshney/)](https://www.linkedin.com/in/shubhamv108/)
 [![Twitter: shubham_v__](https://img.shields.io/twitter/follow/shubham_v__?style=social)](https://twitter.com/shubham_v__)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=shubhamv108&left_color=gray&right_color=blue)
 <!--[![Medium Badge](https://img.shields.io/badge/-@Shubham%20V-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@jitter4)](https://medium.com/@shubhamv108) -->
@@ -11,9 +11,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/320px-Java_programming_language_logo.svg.png" alt="Java" width="30" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1920px-Go_Logo_Blue.svg.png" alt="GO" width="60" height="25">
 
 - 🔭 I’m currently working on a cloud platform as a service.
-- 🌱 I’m currently learning Golang, ...
+- 🌱 I’m currently learning Kubernetes, ...
 - 👯 I’m looking to collaborate on implementing Saas products
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with designing & implementing scalable backend services.
 - 💬 Ask me about backend development.
 - 📫 How to reach me: <a href="https://linktr.ee/shubhamv108" target="_blank"><img src="https://pbs.twimg.com/profile_images/1242717213225672704/zW9W_sU0_400x400.jpg" width="25" height="25"></a>
 - 😄 Pronouns: He/Him
@@ -44,6 +44,7 @@
 [WebCrawlerInvertedIndex](https://github.com/shubhamv108/web-crawler-inverted-index)<br/>
 
 #### SpringBoot-DemoApplications
+[ServerSenfEvents] (https://github.com/shubhamv108/spring-boot-server-sent-events)<br/>
 [CircuitBreaker](https://github.com/shubhamv108/spring-boot-circuit-breaker-demo)<br/>
 [CloudStream-RabbitMQ](https://github.com/shubhamv108/spring-boot-rabbitmq-demo)<br/>
 [Connect4](https://github.com/shubhamv108/connect4)<br/>
