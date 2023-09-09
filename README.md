@@ -1,4 +1,4 @@
-## Hey! I'm Shubham V. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey! I'm Shubham. I can help in designing & implementing scalable backend services. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 [![GitHub shubhamv108](https://img.shields.io/github/followers/shubhamv108?label=follow&style=social)](https://github.com/shubhamv108)
