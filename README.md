@@ -4,6 +4,7 @@
 [![GitHub shubhamv108](https://img.shields.io/github/followers/shubhamv108?label=follow&style=social)](https://github.com/shubhamv108)
 [![Linkedin: shubhamvarshney](https://img.shields.io/badge/-Shubham%20V-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhamvarshney/)](https://www.linkedin.com/in/shubhamv108/)
 [![Twitter: shubham_v__](https://img.shields.io/twitter/follow/shubham_v__?style=social)](https://twitter.com/shubham_v__)
+[![Leetcode: pikachupikapi](https://img.shields.io/leetcode?style=social)](https://leetcode.com/pikachupikapi/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=shubhamv108&left_color=gray&right_color=blue)
 <!--[![Medium Badge](https://img.shields.io/badge/-@Shubham%20V-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@jitter4)](https://medium.com/@shubhamv108) -->
 <!--[![Polywork Badge](https://img.shields.io/badge/-Shubham%20V-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/shubhamv108)](http://polywork.com/shubhamv108) -->
