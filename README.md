@@ -108,13 +108,23 @@
 <br/>
 <br/>
 
+![](https://github.com/shubhamv108/shubhamv108/assets/16763337/72c6b7ff-01f2-4551-9f1c-8b260258c97a)
+
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 👇🏻 If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/shubhamv108) and add to my knowledge!
 
 <a href="https://www.buymeacoffee.com/shubhamv108" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Book" width="120" ></a>
 
+<br/>
+<img src="https://github.com/shubhamv108/shubhamv108/assets/16763337/363a5742-0160-4fa4-87c9-1cac6ed67eab" width="300" height="350"/>
+<br/>
 
 <!--
-**jitter4/jitter4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shubhamv108/shubhamv108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
