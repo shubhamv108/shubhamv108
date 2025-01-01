@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working with clients to implement to their scalable backend services.
 - 🌱 I’m currently learning ... 
-- 👯 I’m looking to collaborate on implementing Saas products
+- 👯 I’m looking to collaborate on implementing products
 - 🤔 I’m looking for permanent employment with a product based company,
 - 💬 Ask me about backend development.
 - 📫 How to reach me: <a href="https://linktr.ee/shubhamv108" target="_blank"><img src="https://pbs.twimg.com/profile_images/1242717213225672704/zW9W_sU0_400x400.jpg" width="25" height="25"></a>
