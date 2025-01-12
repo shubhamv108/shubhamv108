@@ -11,7 +11,7 @@
 <!--[![Medium Badge](https://img.shields.io/badge/-@Shubham%20V-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@jitter4)](https://medium.com/@shubhamv108) -->
 <!--[![Polywork Badge](https://img.shields.io/badge/-Shubham%20V-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/shubhamv108)](http://polywork.com/shubhamv108) -->
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/320px-Java_programming_language_logo.svg.png" alt="Java" width="30" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1920px-Go_Logo_Blue.svg.png" alt="GO" width="60" height="25">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/320px-Java_programming_language_logo.svg.png" alt="Java" width="30" height="50">
 
 - 🔭 I’m currently working with clients to implement to their scalable backend services.
 - 🌱 I’m currently learning ... 
