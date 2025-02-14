@@ -6,7 +6,6 @@
 [![Twitter](https://img.shields.io/twitter/follow/shubham_v__?style=social)](https://twitter.com/shubham_v__)
 [![RemoteOK](width=100,height=100,quality=85/https://remoteok.com/assets/logo-square.png?1633381266)](https://remoteok.com/@shubham108)
 [![Upwork](https://img.shields.io/upwork?style=social)](https://www.upwork.com/freelancers/~01fd00741999eb6bad)
-[![Leetcode](https://img.shields.io/leetcode?style=social)](https://leetcode.com/pikachupikapi/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=shubhamv108&left_color=gray&right_color=blue)
 <!--[![Medium Badge](https://img.shields.io/badge/-@Shubham%20V-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@jitter4)](https://medium.com/@shubhamv108) -->
 <!--[![Polywork Badge](https://img.shields.io/badge/-Shubham%20V-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/shubhamv108)](http://polywork.com/shubhamv108) -->
