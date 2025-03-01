@@ -1,4 +1,8 @@
-## Hey! I'm Shubham. I can help in designing & implementing scalable backend services. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Shubham, a Backend Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ 
+<!-- <p align="center"> -->
+I can help in designing & implementing highly scalable & available <i><b>backend</b> services</i>.
+<!-- <p> -->
 
 
 [![GitHub shubhamv108](https://img.shields.io/github/followers/shubhamv108?label=follow&style=social)](https://github.com/shubhamv108)
@@ -23,9 +27,127 @@
 
 [![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamv108&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/shubhamv108/github-readme-stats)
 
+## Languages and Tools 💁
+
 <a href="https://github.com/shubhamv108">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamv108&theme=light&count_private=true&layout=compact" alt="Most used languages" />
 </a>
+
+### Programming Languages
+<!-- <p align="center">  -->
+<a href="https://docs.oracle.com/en/java/javase/23/docs/api/index.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/320px-Java_programming_language_logo.svg.png" alt="Java" width="30" height="50"/></a>
+<!-- </p> -->
+
+### Backend Development
+<a href="https://docs.spring.io/spring-boot/index.html" target="_blank" rel="noreferrer"> <img src="https://docs.spring.io/spring-boot/_/img/spring-logo.svg" alt="nodejs" width="200" height="38"/><a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="	https://hibernate.org/images/hibernate-logo.svg" alt="Hibernate" width="150" height="40"/></a>
+
+### API
+    Rest, GraphQL
+<br/>
+<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
+
+### Database
+#### RDBMS
+    PostgreSQL, MySQL
+<br/>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+
+#### Wide Column
+###### Key Value
+    Apache Cassandra
+
+#### Document
+    Elasticsearch, MongoDB
+<br/>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+
+
+###### Key Value
+    Amazon DynamoDB
+
+#### Columnar
+    Amazon Redshift
+
+### Cache
+    Redis
+
+#### Container
+    Docker
+
+#### Container Orchestrator
+    Kubernetes
+
+#### IAC
+    Cloudformation, Terraform
+
+## CI/CD
+    Jenkins, Codepipeline, Github Actions
+
+### Cloud
+    AWS
+
+### CDN
+    Amazon Cloudfront
+
+### Security
+    OAuth2, JWS, TLS, VPC, NAT Gateway, Routing table, Firewall, RSA, AES, HMAC, BCrypt, Hashing 
+
+### Testing
+    JUnit, Mockito
+
+### Version Control
+    Git
+
+### Design
+#### Low Level Design
+    Object Oriented Design
+    Entity Relationship
+    Database Schema
+    API
+    
+### High Level Design
+#### Architectures
+    Microservices (DDD)
+    Event Driven
+    Serverless
+
+### Data Structures
+    Array
+    Doubly Linked List
+    Queue
+    Stack
+    BST
+    N-Array Tree
+    Graph
+    HashMap
+    Set
+    Heap
+    Trie
+    Suffix Tree
+    Bloom Filter
+    Count-Min Sketch
+    HyperLogLog
+
+### Algorithms
+    Sliding Window
+    Recursion
+    Backtrack
+
+##### Sort
+    Count Sort
+    Radix Sort
+    Bubble Sort
+    Merge Sort
+    Quick Sort
+
+##### Graph
+    BFS
+    DFS
+    Djikastra
+    Krusukal
+    Prim
+    Topoogical Sort
+    Union Find
 
 <br/>
 <br/>
