@@ -34,6 +34,7 @@ I can help in designing & implementing highly scalable & available <i><b>backend
 </a>
 
 ### Programming Languages
+    Java, SQL
 <!-- <p align="center">  -->
 <a href="https://docs.oracle.com/en/java/javase/23/docs/api/index.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/320px-Java_programming_language_logo.svg.png" alt="Java" width="30" height="50"/></a>
 <!-- </p> -->
