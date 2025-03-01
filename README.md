@@ -103,6 +103,8 @@ I can help in designing & implementing highly scalable & available <i><b>backend
     Object Oriented Design
     Entity Relationship
     Database Schema
+    Class Diagram
+    Sequence Diagram
     API
     
 ### High Level Design
