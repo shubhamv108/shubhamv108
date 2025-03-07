@@ -34,7 +34,8 @@ I can help in designing & implementing highly scalable & available <i><b>backend
 </a>
 
 ### Programming Languages
-    Java, SQL
+    Java
+    SQL
 <!-- <p align="center">  -->
 <a href="https://docs.oracle.com/en/java/javase/23/docs/api/index.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/320px-Java_programming_language_logo.svg.png" alt="Java" width="30" height="50"/></a>
 <!-- </p> -->
@@ -43,13 +44,15 @@ I can help in designing & implementing highly scalable & available <i><b>backend
 <a href="https://docs.spring.io/spring-boot/index.html" target="_blank" rel="noreferrer"> <img src="https://docs.spring.io/spring-boot/_/img/spring-logo.svg" alt="nodejs" width="200" height="38"/><a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="	https://hibernate.org/images/hibernate-logo.svg" alt="Hibernate" width="150" height="40"/></a>
 
 ### API
-    Rest, GraphQL
+    REST
+    GraphQL
 <br/>
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
 
 ### Database
 #### RDBMS
-    PostgreSQL, MySQL
+    PostgreSQL
+    MySQL
 <br/>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 
@@ -72,6 +75,16 @@ I can help in designing & implementing highly scalable & available <i><b>backend
 ### Cache
     Redis
 
+### Message Broker
+#### Publisher Subscriber
+    Apache Kafka
+    Confluent Kafka
+    Amazon SNS
+
+#### Queue
+    Amazon SQS
+    RabbitMQ
+
 #### Container
     Docker
 
@@ -79,7 +92,8 @@ I can help in designing & implementing highly scalable & available <i><b>backend
     Kubernetes
 
 #### IAC
-    Cloudformation, Terraform
+    Cloudformation
+    Terraform
 
 ## CI/CD
     Jenkins, Codepipeline, Github Actions
