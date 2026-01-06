@@ -16,7 +16,7 @@ I can help in designing & implementing highly scalable & available <i><b>backend
 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/320px-Java_programming_language_logo.svg.png" alt="Java" width="30" height="50">
 
-- 🔭 I’m currently working with clients to implement to their scalable backend services.
+- 🔭 I’m currently working with clients to implement their scalable backend services.
 - 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on implementing products
 - 🤔 I’m looking for permanent employment with a product based company,
